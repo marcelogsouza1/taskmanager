@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Maven
+target/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# H2
+*.db
+*.mv.db
+*.trace.db
